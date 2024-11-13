@@ -20,10 +20,10 @@ What does the specific formulation of Fick's First Law look like in the context 
 What is the equation for Coulomb's Law?	\(F = K * (\frac{q_1*q_2}{r^2})\)
 What is the formula of Ohm's Law?	\(U = R*I\)
 What is particle velocity dependent on in Brownian Motion?	Goes up with temperature and down with molecular weight
-What is the general equation for intra/extracellular electrochemical potential?	\(u_i = u_{00} + R*T*ln(c_i) + z_i*F*E\)<br>R is gas constant<br>T is temperature<br>\(z_i\)&nbsp;is charge number<br>F is Faraday constant<br>E is electric potential<br>\(u\)&nbsp;is the electrochemical potential
+What is the general equation for intra/extracellular electrochemical potential?	\(u_i = u_{00} + R*T*ln(c_i) + z_i*F*E\)<br>R is gas constant<br>T is temperature<br>\(z_i\)&nbsp;is charge number<br>F is Faraday constant<br>E is electric potential<br>\(u\)&nbsp;is the electrochemical potential<br>\(c_i\)&nbsp;is the concentration
 &nbsp;What is the Nernst equation and what does it describe?	\(E_k = \frac{RT}{z_kF}ln\frac{C^{extra}_{K}}{C^{intra}_{K}}\)<br>This describes the&nbsp;<b>electrical</b>&nbsp;(<b>NOT electrochemical!)</b>&nbsp;potential of a membrane.<br>Note:&nbsp;\(\frac{RT}{z_kF} \approx 58\)&nbsp;for&nbsp;\(T = 294K\)&nbsp;and&nbsp;\(z_k = +1\)
 What is the equation for the Goldman potential (total membrane potential)?	\(E_G = \frac{R*T}{F}ln\frac{P_K[K]_{out}+P_{Na}[Na]_{out}+P_{Cl}[Cl]_{in}}{P_K[K]_{in}+P_{Na}[Na]_{in}+P_{Cl}[Cl]_{out}}\)
-What are the three subtypes of the sodium potassium pump, what is the function of each, and how many isoforms does each have?	<b>1. Alpha-subunit</b><br>Function: Backbone of ATP-driven ion shuttle<br>4 isoforms<br><b>2. Beta-subunit</b><br>Trafficking to plasma membrane<br>3 isoforms<br><b>3. FXYD-subunit<br></b>Modulates substrate affinities and Vmax<br>3 isoforms
+What are the three sub-units&nbsp;of the sodium potassium pump, what is the function of each, and how many isoforms does each have?	<b>1. Alpha-subunit</b><br>Function: Backbone of ATP-driven ion shuttle<br>4 isoforms<br><b>2. Beta-subunit</b><br>Trafficking to plasma membrane<br>3 isoforms<br><b>3. FXYD-subunit<br></b>Modulates substrate affinities and Vmax<br>3 isoforms
 Describe the binding affinities and binding sites for each conformational state of the sodium potassium pump.	E1: intracellular, high Na, low K<br>E2: extracellular, low Na, high K
 How many binding sites are there for each K and Na in K-Na-pump?	3 for Na and 2 for K
 NaK-pump: When does ATP bind to the pump?	Binds right before 2K are released intra-cellularly (Stage 8).
@@ -40,23 +40,23 @@ Do NKCCs transport ions out of or into cells?	Into.
 What are the requirements for performing intracellular recordings?	1. Neuron that is alive<br>2. Electrode w very small tip<br>3. Voltmeter<br>4. Mechanical device for moving the electrode over small distances
 What should you do to ensure that you have pierced a neuron with an electrode?	Inject positive current and see if you observe action potentials.
 What is a current-clamp recording?	A current is injected and the membrane potential's response is recorded.
-Give an example of how a voltage-clamp recording can be helpful.	The current injected by the amplifier mirrors the transient inward current caused by a neurotransmitter hypothetically opening certain ion channels.
-What are two electrode voltage-clamps used for today as an example?	They're used for analyzing the properties of ion channels expressed in oocytes.
-What to patch-clamp recordings measure?	The currents from a small area of the cell membrane.
+What do voltage-clamp recordings allow us to measure?	The current injected by the amplifier mirrors the transient inward current caused by a neurotransmitter hypothetically opening certain ion channels.
+What are electrode voltage-clamps used for today as an example?	They're used for analyzing the properties of ion channels expressed in oocytes.
+What do patch-clamp recordings measure?	The currents from a small area of the cell membrane.
 When is a giga-seal acheived?	When there is a very close connection between the recording pipette and the cell membrane.
 What are two advantages of the giga-seal?	1. Low signal-to-noise ratio because rim current currents across the border of the recording pipette are almost absent.<br>2. It provides a mechanically very stable connection between the electrode and cell, allowing recordings that last up to several hours.
 How to you obtain a giga-seal?	1. Push small stream of filling solution out of pipette when far away from cell.<br>2. Move pipette to cell membrane until you see a dimple in the cell membrane caused by pused solution.<br>3. Release the pressure on the pipette to cause dimple to expand and cell membrane touches tip of electrode.<br>4. Apply negative pressure to suck cell's cytoplasm into the recording pipette. Now resistance is in the giga-ohm range!
-What are the characteristics of inside-out membrane patches?	The former intracellular surface of the cell membrane now faces the bathing solution. The surface of teh cell membrane that faced the extracellular space now faces the pipette solution.
-What is a common application of inside-out membrane patches?	It is much easier to change the bathing solution thatn the pipette solution during experiments. Therefore this configuration is well suited for the study of intracellular modulators of ion channels.
+What are the characteristics of inside-out membrane patches?	The former intracellular surface of the cell membrane now faces the bathing solution. The surface of the cell membrane that faced the extracellular space now faces the pipette solution.
+What is a common application of inside-out membrane patches?	It is much easier to change the bathing solution that the pipette solution during experiments. Therefore this configuration is well suited for the study of intracellular modulators of ion channels.
 What is the crucial step that follows giga-seal formation to create an outside-out membrane patch?	The destruction of the cell membrane underneath the electrode tip opening.
 What are the characteristics of an outside-out membrane patch?	The surface of the membrane patch that had faced the cytosol now faces the pipette solution and the surface of the membrane patch that faced the extracellular or bathing solution is still facing the bathing solution.
-What is a typical application for outside-out patches?	The neurotransmitter binding sites are exposed to the bathing and not the pipette solution. This, allows you to measure channel activity with a vareity of exposures to different neurotransmitters.
+What is a typical application for outside-out patches?	The neurotransmitter binding sites are exposed to the bathing and not the pipette solution. This allows you to measure channel activity with a vareity of exposures to different neurotransmitters.
 What are advantages of the cell-attached patch clamp configuration?	1. Suitable for single channel recordings<br>2. Intracellular modulators are present
 What are disadvantages of the patch clamp cell-attached configuration?	1. Voltage gradient across the membrane is unknown<br>2. Intracellular concentrations of ions unknown
 What are key differences between the voltage-clamp and the current-clamp?	1. Control of membrane potential. The membrane potential is controllled by the experimenter in voltage-clamp, but free running in current-clamp.<br>2. Behaviour of the amplifier. In voltage-clamp mode, the amplifier inject current that zeros the difference between the membrane potential and the command voltage. In current-clamp mode, the amplifier injects a command current into the neuron.<br>3. Applicability. A typical example of voltage-clamp recordings is the analysis of synaptic currents. In current-clamp, we map input-output relationships between input current and neuronal output behaviour.
 How do you establish a current to voltage relationship for single ion channels?	1. Record single channel activity at different voltage-clamped membrane potentials.<br>2. The currents during the open state of the channels have to be quantified.<br>3. Use the pairs of voltages and currents for plotting the relationship.
 What is the single channel current-voltage relationship and what does it imply?	It is linear, meaning that the conductivity of the channel is voltage independent.
-How do you calculate the current across an open ion channel?	\(i_{open}=(E_m-E_{ion})g_{open}\)<br>\(E_k\)&nbsp;is the membrane potential<br>\(E_{ion}\)&nbsp;is the Nernst potential of permeable ions<br>\(g_{open}\)&nbsp;is the conductance in the open state
+How do you calculate the current across an open ion channel?	\(i_{open}=(E_m-E_{ion})g_{open}\)<br>\(E_m\)&nbsp;is the membrane potential<br>\(E_{ion}\)&nbsp;is the Nernst potential of permeable ions<br>\(g_{open}\)&nbsp;is the conductance in the open state
 How do you calculate the mean current across a single ion channel?	\(i_{mean}=i_{open}P_{open}\)<br>\(P_{open}\)&nbsp;is the open probability
 How does one measure the mean current across multiple ion channels?	The mean current of a single channel times the number of channels.
 What are the prominent features of the bacterial KcsA potassium channel?	1. It's a member of the inwardly rectifying potassium channels, allowing greater influx than efflux.<br>2. They have 4 identical subunits which form an ion-conducting pore in the middle of the protein complex.
@@ -70,7 +70,7 @@ What is the functional backbone of calcium channels?	The alpha1 subunit.
 How many subtypes of calcium channels are there?	10
 What does action potential generation go along with?	Dramatic increase in membrane permeability.
 What contributes to the depolarizing phase of the action potential?	Sodium ion influx.
-Which ion contributes to the resting membran potential and action potential repolarization?	Potassium
+Which ion contributes to the resting membrane potential and action potential repolarization?	Potassium
 How can the deterministic Hodgin-Huxley model solve for the stochastic behaviour of ion channels?	The stochastic behaviour disappears when considering the average activity of a larger population of ion channels.
 What does the Hodgkin-Huxley model describe?	The initiation of action potentials.
 How many transmembrane helices does the bacterial KcsA channel have and what are they connected by?	They have two transmembrane helices, M1 and M2, connected by the p-loop.
@@ -78,3 +78,7 @@ What do the arrangement of the p-loops form and what does that formation allow?	
 Relating to the dehyradtion process of ions passing through the KcsA channel, how is the hydration shell progressively replaced?	By interactions with the carbonyl groups.
 What is the most primitive type of ion channel and why (describe its structure)?	The KcsA potassium channel because the single protein subunits feature two transmembrane segments and one p-loop and identical 4 subunits form a functional channel.
 "Describe what it means for some sodium channels to be ""voltage dependent""."	Some sodium channels can only be activated for short periods after cell depolarization (a few ms). They have to be again hyperpolarized then depolarized to be activated once again.
+<div>List the function of the N-, P- and A-domain of the alpha-subunit of the sodium potassium pump. What tasks are performed by the beta- and FXYD-subunit?</div>	"N-Domain: ATP-binding<br><div>P_Domain: Phosphorylation site</div>
+<div>A_Domain: Transducer link between transmembrane alpha-helices and the intracellular part of the alpha-subunit</div>
+<div>Beta-Subunit: Cellular and subcellular targeting</div>
+<div>FXYD-Subunit: Modulation of substrate affinity<br></div>"
