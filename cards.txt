@@ -1,71 +1,71 @@
 #separator:tab
-#html:true
+#html:false
 What seperates cells from the external world?	A Bilayer of Phospholipids
-What are the two components of a phospholipid?	1. Hydrophilic Phosphate Head<br>2. Hydophobic Fatty acid tail
+What are the two components of a phospholipid?	1. Hydrophilic Phosphate Head 2. Hydophobic Fatty acid tail
 How thick is the phospholipid bilayer?	4 nanometers
-What ion mediates action potentials?	Na<sup>+</sup>
+What ion mediates action potentials?	Na+
 What is the range of amplitudes of action potentials?	50-100mV
 How long do action potentials last?	0.5-2ms
 What polarity can action potentials be?	Only positive
 What is the range of amplitudes for synaptic potentials?	Small, a few mV or less
 How long do synaptic potentials last?	long, 5-100ms
 What are the possible polarities of synaptic potentials?	Can be positive or negative
-What are the 5 types of membrane transporters?	Ion channels (type of uniporter), uniporters, antiporters, symporters, and pumps&nbsp;
-What is the function of the phospholipid bilayer?	1. Maintain the Shape of the Cell<br>2. Act as a Semipermeable Membrane<br>3. Mediates recognition and communication<br>4. Maintains its internal environment
+What are the 5 types of membrane transporters?	Ion channels (type of uniporter), uniporters, antiporters, symporters, and pumps
+What is the function of the phospholipid bilayer?	1. Maintain the Shape of the Cell 2. Act as a Semipermeable Membrane 3. Mediates recognition and communication 4. Maintains its internal environment
 Describe a setup suitable for recording the membrane potential of a single neuron.	Have a voltmeter with one side attached to ground and other side with at electrode that is piercing the phospholipid bilayer of the neuron, so that it's inside the cell.
-What are the two driving forces behind ions passing through passive ion channels?	1. Diffusion of concentrated areas caused by Brownian motion<br>2. Electric field caused by a variety of factors (mostly distribution of charged ions)
-What does Fick's First Law describe and which values does it relate?	Particle flux (change in number of particles over time). Flux is given as an equation dependent on 4 variables<br>1. Diffusion coefficient<br>2. Area<br>3. Concentration<br>4. Distance<br>\(J=\frac{dn}{dt}=-DA\frac{dc}{dx}\)
+What are the two driving forces behind ions passing through passive ion channels?	1. Diffusion of concentrated areas caused by Brownian motion 2. Electric field caused by a variety of factors (mostly distribution of charged ions)
+What does Fick's First Law describe and which values does it relate?	Particle flux (change in number of particles over time). Flux is given as an equation dependent on 4 variables 1. Diffusion coefficient 2. Area 3. Concentration 4. Distance \(J=\frac{dn}{dt}=-DA\frac{dc}{dx}\)
 How does the general formula for Fick's First Law look like?	\(J = -D * A * (\frac{dc}{dx})\)
-What does the specific formulation of Fick's First Law look like in the context of the flux across the cell membrane?	\(J = -P * A * (c_{in} - c_{out})\)<br>P is the membrane permeability<br>A is the surface area<br>c_in/c_out are in intra/extracellular concentrations
+What does the specific formulation of Fick's First Law look like in the context of the flux across the cell membrane?	\(J = -P * A * (c_{in} - c_{out})\) P is the membrane permeability A is the surface area c_in/c_out are in intra/extracellular concentrations
 What is the equation for Coulomb's Law?	\(F = K * (\frac{q_1*q_2}{r^2})\)
 What is the formula of Ohm's Law?	\(U = R*I\)
 What is particle velocity dependent on in Brownian Motion?	Goes up with temperature and down with molecular weight
-What is the general equation for intra/extracellular electrochemical potential?	\(u_i = u_{00} + R*T*ln(c_i) + z_i*F*E\)<br>R is gas constant<br>T is temperature<br>\(z_i\)&nbsp;is charge number<br>F is Faraday constant<br>E is electric potential<br>\(u\)&nbsp;is the electrochemical potential<br>\(c_i\)&nbsp;is the concentration
-&nbsp;What is the Nernst equation and what does it describe?	\(E_k = \frac{RT}{z_kF}ln\frac{C^{extra}_{K}}{C^{intra}_{K}}\)<br>This describes the&nbsp;<b>electrical</b>&nbsp;(<b>NOT electrochemical!)</b>&nbsp;potential of a membrane.<br>Note:&nbsp;\(\frac{RT}{z_kF} \approx 58\)&nbsp;for&nbsp;\(T = 294K\)&nbsp;and&nbsp;\(z_k = +1\)
+What is the general equation for intra/extracellular electrochemical potential?	\(u_i = u_{00} + R*T*ln(c_i) + z_i*F*E\) R is gas constant T is temperature \(z_i\) is charge number F is Faraday constant E is electric potential \(u\) is the electrochemical potential \(c_i\) is the concentration
+What is the Nernst equation and what does it describe?	\(E_k = \frac{RT}{z_kF}ln\frac{C^{extra}_{K}}{C^{intra}_{K}}\) This describes the electrical (NOT electrochemical!) potential of a membrane. Note: \(\frac{RT}{z_kF} \approx 58\) for \(T = 294K\) and \(z_k = +1\)
 What is the equation for the Goldman potential (total membrane potential)?	\(E_G = \frac{R*T}{F}ln\frac{P_K[K]_{out}+P_{Na}[Na]_{out}+P_{Cl}[Cl]_{in}}{P_K[K]_{in}+P_{Na}[Na]_{in}+P_{Cl}[Cl]_{out}}\)
-What are the three sub-units&nbsp;of the sodium potassium pump, what is the function of each, and how many isoforms does each have?	<b>1. Alpha-subunit</b><br>Function: Backbone of ATP-driven ion shuttle<br>4 isoforms<br><b>2. Beta-subunit</b><br>Trafficking to plasma membrane<br>3 isoforms<br><b>3. FXYD-subunit<br></b>Modulates substrate affinities and Vmax<br>3 isoforms
-Describe the binding affinities and binding sites for each conformational state of the sodium potassium pump.	E1: intracellular, high Na, low K<br>E2: extracellular, low Na, high K
+What are the three sub-units of the sodium potassium pump, what is the function of each, and how many isoforms does each have?	1. Alpha-subunit Function: Backbone of ATP-driven ion shuttle 4 isoforms 2. Beta-subunit Trafficking to plasma membrane 3 isoforms 3. FXYD-subunit Modulates substrate affinities and Vmax 3 isoforms
+Describe the binding affinities and binding sites for each conformational state of the sodium potassium pump.	E1: intracellular, high Na, low K E2: extracellular, low Na, high K
 How many binding sites are there for each K and Na in K-Na-pump?	3 for Na and 2 for K
 NaK-pump: When does ATP bind to the pump?	Binds right before 2K are released intra-cellularly (Stage 8).
 NaK-Pump: When does bound ATP phosphorilate, and what is it converted to after being broken off?	During E1 when 3Na is already bound, and the pump will occlude (close) after ATP is broken off. ATP is converted into ADP.
 Where and when does the calcium pump move calcium ions?	To the sarcoplasmic reticulum after each muscle contraction.
-What are the physical functions of cation-chloride cotransporters?	1. Volume regulation<br>2. GABAergic neurotransmission<br>3. Spine development
-What are the three types of cation-chloride cotransporters?	1. K-Cl<br>2. Na-K-2Cl<br>3. Na-Cl
-What are the typical&nbsp;<b>extracellular</b>&nbsp;concentration gradients across the neuron's plasma membrane?	Na: 140mM<br>K: 3mM<br>Cl: 140mM<br>Ca: 1.5mM
-What are the typical <b>intracellular&nbsp;</b>concentration gradients across the neuron's plasma membrane?	Na: 7mM<br>K: 140mM<br>Cl: 7mM<br>Ca: 0.1\(\micro\)M
-What are the molecular features of a N-K-2Cl cotransporter?	- Similar secondary structure to KCCs<br>- Ion binding sites are located in the middle of the transmembrane region<br>- Multiple extracellular entryways and intracellular exits that converge at central ion binding sites
+What are the physical functions of cation-chloride cotransporters?	1. Volume regulation 2. GABAergic neurotransmission 3. Spine development
+What are the three types of cation-chloride cotransporters?	1. K-Cl 2. Na-K-2Cl 3. Na-Cl
+What are the typical extracellular concentration gradients across the neuron's plasma membrane?	Na: 140mM K: 3mM Cl: 140mM Ca: 1.5mM
+What are the typical intracellular concentration gradients across the neuron's plasma membrane?	Na: 7mM K: 140mM Cl: 7mM Ca: 0.1\(\micro\)M
+What are the molecular features of a N-K-2Cl cotransporter?	- Similar secondary structure to KCCs - Ion binding sites are located in the middle of the transmembrane region - Multiple extracellular entryways and intracellular exits that converge at central ion binding sites
 Describe the Na-K-2Cl cotransporter transport mechanism.	The first step, the transporter loads one Na and one Cl, then in a second step one K and one Cl.
-What are the physiological functions of Na-K-2Cl cotransporters (NKCCs)?	1. Cell volume regulation in response to hypertonic stress<br>2. Regulation of chloride homeostasis in neuronal excitability
+What are the physiological functions of Na-K-2Cl cotransporters (NKCCs)?	1. Cell volume regulation in response to hypertonic stress 2. Regulation of chloride homeostasis in neuronal excitability
 Do NKCCs transport ions out of or into cells?	Into.
-What are the requirements for performing intracellular recordings?	1. Neuron that is alive<br>2. Electrode w very small tip<br>3. Voltmeter<br>4. Mechanical device for moving the electrode over small distances
+What are the requirements for performing intracellular recordings?	1. Neuron that is alive 2. Electrode w very small tip 3. Voltmeter 4. Mechanical device for moving the electrode over small distances
 What should you do to ensure that you have pierced a neuron with an electrode?	Inject positive current and see if you observe action potentials.
 What is a current-clamp recording?	A current is injected and the membrane potential's response is recorded.
 What do voltage-clamp recordings allow us to measure?	The current injected by the amplifier mirrors the transient inward current caused by a neurotransmitter hypothetically opening certain ion channels.
 What are electrode voltage-clamps used for today as an example?	They're used for analyzing the properties of ion channels expressed in oocytes.
 What do patch-clamp recordings measure?	The currents from a small area of the cell membrane.
 When is a giga-seal acheived?	When there is a very close connection between the recording pipette and the cell membrane.
-What are two advantages of the giga-seal?	1. Low signal-to-noise ratio because rim current currents across the border of the recording pipette are almost absent.<br>2. It provides a mechanically very stable connection between the electrode and cell, allowing recordings that last up to several hours.
-How to you obtain a giga-seal?	1. Push small stream of filling solution out of pipette when far away from cell.<br>2. Move pipette to cell membrane until you see a dimple in the cell membrane caused by pused solution.<br>3. Release the pressure on the pipette to cause dimple to expand and cell membrane touches tip of electrode.<br>4. Apply negative pressure to suck cell's cytoplasm into the recording pipette. Now resistance is in the giga-ohm range!
+What are two advantages of the giga-seal?	1. Low signal-to-noise ratio because rim current currents across the border of the recording pipette are almost absent. 2. It provides a mechanically very stable connection between the electrode and cell, allowing recordings that last up to several hours.
+How to you obtain a giga-seal?	1. Push small stream of filling solution out of pipette when far away from cell. 2. Move pipette to cell membrane until you see a dimple in the cell membrane caused by pused solution. 3. Release the pressure on the pipette to cause dimple to expand and cell membrane touches tip of electrode. 4. Apply negative pressure to suck cell's cytoplasm into the recording pipette. Now resistance is in the giga-ohm range!
 What are the characteristics of inside-out membrane patches?	The former intracellular surface of the cell membrane now faces the bathing solution. The surface of the cell membrane that faced the extracellular space now faces the pipette solution.
 What is a common application of inside-out membrane patches?	It is much easier to change the bathing solution that the pipette solution during experiments. Therefore this configuration is well suited for the study of intracellular modulators of ion channels.
 What is the crucial step that follows giga-seal formation to create an outside-out membrane patch?	The destruction of the cell membrane underneath the electrode tip opening.
 What are the characteristics of an outside-out membrane patch?	The surface of the membrane patch that had faced the cytosol now faces the pipette solution and the surface of the membrane patch that faced the extracellular or bathing solution is still facing the bathing solution.
 What is a typical application for outside-out patches?	The neurotransmitter binding sites are exposed to the bathing and not the pipette solution. This allows you to measure channel activity with a vareity of exposures to different neurotransmitters.
-What are advantages of the cell-attached patch clamp configuration?	1. Suitable for single channel recordings<br>2. Intracellular modulators are present
-What are disadvantages of the patch clamp cell-attached configuration?	1. Voltage gradient across the membrane is unknown<br>2. Intracellular concentrations of ions unknown
-What are key differences between the voltage-clamp and the current-clamp?	1. Control of membrane potential. The membrane potential is controllled by the experimenter in voltage-clamp, but free running in current-clamp.<br>2. Behaviour of the amplifier. In voltage-clamp mode, the amplifier inject current that zeros the difference between the membrane potential and the command voltage. In current-clamp mode, the amplifier injects a command current into the neuron.<br>3. Applicability. A typical example of voltage-clamp recordings is the analysis of synaptic currents. In current-clamp, we map input-output relationships between input current and neuronal output behaviour.
-How do you establish a current to voltage relationship for single ion channels?	1. Record single channel activity at different voltage-clamped membrane potentials.<br>2. The currents during the open state of the channels have to be quantified.<br>3. Use the pairs of voltages and currents for plotting the relationship.
+What are advantages of the cell-attached patch clamp configuration?	1. Suitable for single channel recordings 2. Intracellular modulators are present
+What are disadvantages of the patch clamp cell-attached configuration?	1. Voltage gradient across the membrane is unknown 2. Intracellular concentrations of ions unknown
+What are key differences between the voltage-clamp and the current-clamp?	1. Control of membrane potential. The membrane potential is controllled by the experimenter in voltage-clamp, but free running in current-clamp. 2. Behaviour of the amplifier. In voltage-clamp mode, the amplifier inject current that zeros the difference between the membrane potential and the command voltage. In current-clamp mode, the amplifier injects a command current into the neuron. 3. Applicability. A typical example of voltage-clamp recordings is the analysis of synaptic currents. In current-clamp, we map input-output relationships between input current and neuronal output behaviour.
+How do you establish a current to voltage relationship for single ion channels?	1. Record single channel activity at different voltage-clamped membrane potentials. 2. The currents during the open state of the channels have to be quantified. 3. Use the pairs of voltages and currents for plotting the relationship.
 What is the single channel current-voltage relationship and what does it imply?	It is linear, meaning that the conductivity of the channel is voltage independent.
-How do you calculate the current across an open ion channel?	\(i_{open}=(E_m-E_{ion})g_{open}\)<br>\(E_m\)&nbsp;is the membrane potential<br>\(E_{ion}\)&nbsp;is the Nernst potential of permeable ions<br>\(g_{open}\)&nbsp;is the conductance in the open state
-How do you calculate the mean current across a single ion channel?	\(i_{mean}=i_{open}P_{open}\)<br>\(P_{open}\)&nbsp;is the open probability
+How do you calculate the current across an open ion channel?	\(i_{open}=(E_m-E_{ion})g_{open}\) \(E_m\) is the membrane potential \(E_{ion}\) is the Nernst potential of permeable ions \(g_{open}\) is the conductance in the open state
+How do you calculate the mean current across a single ion channel?	\(i_{mean}=i_{open}P_{open}\) \(P_{open}\) is the open probability
 How does one measure the mean current across multiple ion channels?	The mean current of a single channel times the number of channels.
-What are the prominent features of the bacterial KcsA potassium channel?	1. It's a member of the inwardly rectifying potassium channels, allowing greater influx than efflux.<br>2. They have 4 identical subunits which form an ion-conducting pore in the middle of the protein complex.
+What are the prominent features of the bacterial KcsA potassium channel?	1. It's a member of the inwardly rectifying potassium channels, allowing greater influx than efflux. 2. They have 4 identical subunits which form an ion-conducting pore in the middle of the protein complex.
 How might ion channels allow selective permeation of specific ions?	One point to be considered is the that cations dissolved in water are surrounded by a hydration shell.
 How do potassium selective ion channels distinguish between potassium and sodium ions?	Their size.
 Why don't sodium ions pass through potassium-selective channels despite possatium being larger?	Because the interactions with the carbonyl groups lining the wall of the filter do not promote the removal of the hydration shell.
 What does voltage-dependent gating of potassium channels involve?	Protein structures characterized by six transmembrane helices, with transmembrane segment 4 being the voltage sensor.
 How many sodium channel subtypes are there?	10
-What physiological functions to calcium channels have?	1. Central role in contraction of skeletal muscles<br>2. Release of neurotransmitter into synaptic cleft<br>3. Regulating the activity of enzymes<br>4. Gene transcription
+What physiological functions to calcium channels have?	1. Central role in contraction of skeletal muscles 2. Release of neurotransmitter into synaptic cleft 3. Regulating the activity of enzymes 4. Gene transcription
 What is the functional backbone of calcium channels?	The alpha1 subunit.
 How many subtypes of calcium channels are there?	10
 What does action potential generation go along with?	Dramatic increase in membrane permeability.
@@ -78,7 +78,4 @@ What do the arrangement of the p-loops form and what does that formation allow?	
 Relating to the dehyradtion process of ions passing through the KcsA channel, how is the hydration shell progressively replaced?	By interactions with the carbonyl groups.
 What is the most primitive type of ion channel and why (describe its structure)?	The KcsA potassium channel because the single protein subunits feature two transmembrane segments and one p-loop and identical 4 subunits form a functional channel.
 "Describe what it means for some sodium channels to be ""voltage dependent""."	Some sodium channels can only be activated for short periods after cell depolarization (a few ms). They have to be again hyperpolarized then depolarized to be activated once again.
-<div>List the function of the N-, P- and A-domain of the alpha-subunit of the sodium potassium pump. What tasks are performed by the beta- and FXYD-subunit?</div>	"N-Domain: ATP-binding<br><div>P_Domain: Phosphorylation site</div>
-<div>A_Domain: Transducer link between transmembrane alpha-helices and the intracellular part of the alpha-subunit</div>
-<div>Beta-Subunit: Cellular and subcellular targeting</div>
-<div>FXYD-Subunit: Modulation of substrate affinity<br></div>"
+List the function of the N-, P- and A-domain of the alpha-subunit of the sodium potassium pump. What tasks are performed by the beta- and FXYD-subunit?	N-Domain: ATP-binding  P_Domain: Phosphorylation site  A_Domain: Transducer link between transmembrane alpha-helices and the intracellular part of the alpha-subunit  Beta-Subunit: Cellular and subcellular targeting  FXYD-Subunit: Modulation of substrate affinity
